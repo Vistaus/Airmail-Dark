@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Airmail-Dark
+Comment=A not-too-dark GTK 2/3 theme with an orange tint
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Airmail-Dark
+GtkTheme=Airmail-Dark
+IconTheme=oomox-Airmail
+MetacityTheme=oomox-Airmail
